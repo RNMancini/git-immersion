@@ -1,4 +1,3 @@
-# This is an unwanted but committed change
+# Defauly is "World"
 name = ARGV.first || "World"
-
 puts "Hello, #{name}!"
