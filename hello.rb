@@ -1,2 +1,3 @@
-name + ARGV.first || "World"
+# Defauly is "World"
+name = ARGV.first || "World"
 puts "Hello, #{name}!"
